@@ -1,0 +1,1 @@
+Download the DB Browser for SQLite
